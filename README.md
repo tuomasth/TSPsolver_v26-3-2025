@@ -17,7 +17,7 @@ This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v
                            each cluster performs the NNH which chains everything and creates the Hamiltonian circuit. 
                           
  F8 SOM-CH-NN-EVO:         Same as F7 but with 2 times more clusters and evolution is used, the population consists 
-                           of chromosomes (multiple F7 results), the movable neurons also have logic stacks that tell what to do 
+                           of chromosomes, the movable neurons also have logic stacks that tell what to do 
                            after moving towards the SOM goal, the programmer can make their own logic fragments to the stacks. 
                           
  F9 OPT-SOM-CH-NN-EVO:     Same as F8 but the F6's quick opts are used in the end, parameters can be changed before the run. 
