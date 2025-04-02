@@ -1,7 +1,7 @@
 Recommended Java JDK version: 17.0.12 or newer.
 
 This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v14-3-2017".
-When "save" says that the directory "will be the Jar file directory", it might mean the "home" directory on Linux.
+When "save" says that the directory "will be the Jar file directory", it means the "home" directory on most Linux operating systems.
 
  F2 NNH:                   Nearest neighbour as the simplest heuristic there exists. 
  
