@@ -2,6 +2,8 @@ Recommended Java JDK version: 17.0.12 or newer.
 
 This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v14-3-2017".
 
+---
+
  F2 NNH:                   Nearest neighbour as the simplest heuristic there exists. 
  
  F3 2MST:                  Using minimum spanning tree's doubled edges and Euler tour. 
@@ -17,7 +19,7 @@ This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v
                            each cluster performs the NNH which chains everything and creates the Hamiltonian circuit. 
                           
  F8 SOM-CH-NN-EVO:         Same as F7 but with 2 times more clusters and evolution is used, the population consists 
-                           of chromosomes, the movable neurons also have logic stacks that tell what to do 
+                           of chromosomes (TSP tours), the movable neurons also have logic stacks that tell what to do 
                            after moving towards the SOM goal, the programmer can make their own logic fragments to the stacks. 
                           
  F9 OPT-SOM-CH-NN-EVO:     Same as F8 but the F6's quick opts are used in the end, parameters can be changed before the run. 
