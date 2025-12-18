@@ -24,6 +24,4 @@ This TSPsolver is an updated version of "https://github.com/tuomasth/TSPsolver_v
                           
  F9 OPT-SOM-CH-NN-EVO:     Same as F8 but the F6's quick opts are used in the end, parameters can be changed before the run. 
 
- (The F9-statement "when there are less than 5 chromosomes, the terminating will stop on the current iteration" can also mean "equal to 5 chromosomes".)
-
  F1:                       (About the Java application.) 
